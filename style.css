@@ -1,0 +1,57 @@
+#content {
+    border: 1px solid white;
+    border-radius: 4px;
+    width: 21em;
+    height: 18em;
+  background-color: white;
+   text-align: center;
+   box-shadow: 2px 2px 2px gray;
+   float: right;
+   margin-right: 20px;
+}
+body {
+    background-color: rgb(218, 223, 228);
+    align-content: center;
+}
+input {
+    border: 1px solid rgb(180, 188, 196);
+    border-radius: 4px;
+    width: 316px;
+    height: 39px;
+    margin-top: 7px;
+}
+hr {
+    width: 18em;
+    color: rgb(180, 188, 196);
+}
+#logbutton {
+    border: 0.4px solid rgb(29, 142, 212);
+    border-radius: 3px;
+    width: 316px;
+    height: 39px;
+    background-color: rgb(29, 142, 212);
+    color: white;
+}
+#newbutton {
+    border: 1px solid rgb(17, 196, 17);
+    height: 39px;
+    width: 175px;
+    background-color: rgb(17, 196, 17) ;
+    color: white;
+    border-radius: 3px;
+}
+h1 {
+    color: rgb(29, 142, 212);
+    font-size: 55px;
+}
+#leftside {
+  width: 400px;
+  margin-left: 60px;
+}
+h2 {
+    color: rgb(122, 120, 120);
+}
+h4 {
+    margin-top: 60px;
+    color: rgb(122, 120, 120);
+}
